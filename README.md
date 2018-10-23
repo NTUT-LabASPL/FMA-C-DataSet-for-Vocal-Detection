@@ -4,6 +4,6 @@ The 2s music dataset is related of the [FMA: A Dataset For Music Analysis](https
 
 ## Data
 
-1. [FMA-C-1 DataSet](https://drive.google.com/drive/folders/1uBQPk2Pc85Zy8-3h49zJoU9cp_xhsodr?usp=sharing) : 12,254 tracks for train, 4,085 tracks for test.
+1. [FMA-C-1 DataSet](https://drive.google.com/drive/folders/1uBQPk2Pc85Zy8-3h49zJoU9cp_xhsodr?usp=sharing) : 12,254 tracks for training, 4,085 tracks for testing.
 
 ---
