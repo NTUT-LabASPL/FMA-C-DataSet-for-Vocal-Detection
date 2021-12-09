@@ -13,5 +13,5 @@ The 2s music dataset is related of the [FMA: A Dataset For Music Analysis](https
 7. [MIR-1k](https://drive.google.com/file/d/1yewiCCjNDc-eKq-dVYOMDJ-9833UqhLw/view?usp=sharing) : 9,900 tracks.
 8. [RapData](https://drive.google.com/file/d/1ye0Urh3PuG2_UBqh2SiVnlHIkcp5Dkie/view?usp=sharing) : 391 tracks.
 9. [A-Cappella](https://drive.google.com/file/d/1yfzkVYVpaM2k4dkU4Lv8NYeUPqMRoEf1/view?usp=sharing) : 7,922 tracks.
-10. [MIDI_dataset (model use).zip](https://drive.google.com/file/d/1Q9yLeBmGJT-BMGj8cxFlqlACmHTlqS-B/view?usp=sharing).
+10. [MIDI_dataset (model use)](https://drive.google.com/file/d/1Q9yLeBmGJT-BMGj8cxFlqlACmHTlqS-B/view?usp=sharing).
 ---
